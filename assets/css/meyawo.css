@@ -10969,7 +10969,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 ::selection {
-  background: red;
+  background: #bb141a;
   color: white;
 }
 
